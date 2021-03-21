@@ -1,0 +1,3 @@
+package TEMA_14_CARPARTS;
+
+public enum PartCategory { ENGINE, TIRES, EXHAUST, SUSPENSION, BRAKES }
